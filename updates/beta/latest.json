@@ -1,7 +1,7 @@
 {
     "version": "1.2.4",
     "channel": "beta",
-    "exe_url": "https://github.com/yourusername/NixoUpdates/releases/download/v1.2.4/NixoSentinel-1.2.4-beta.exe",
+    "exe_url": "https://raw.githubusercontent.com/Pranjal-ecompapi/NIxo_Updates-/main/updates/beta/NixoSentinel-1.2.4-beta.exe",
     "sha256": "2f8c3b7d1234abcd5678ef90af21...",
     "notes": "Minor improvements and stability fixes."
 }
