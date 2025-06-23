@@ -1,8 +1,0 @@
-{
-  "version": "1.2.4",
-  "channel": "alpha",
-  "exe_url": "https://raw.githubusercontent.com/Pranjal-ecompapi/NIxo_Updates-/main/updates/alpha/NixoSentinel-1.2.4-alpha.exe",
-  "sha256": "da518084ec35f2a6db0e082ac497251f929650a5d3f50794be069a952bfdd2b0",
-  "notes": "Minor improvements and stability fixes.",
-  "scheduled_at": "2025-06-20T15:30:00Z"
-}
