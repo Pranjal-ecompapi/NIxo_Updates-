@@ -1,7 +1,7 @@
 {
     "version": "1.2.4",
-    "channel": "Alpha",
-    "exe_url": "https://raw.githubusercontent.com/Pranjal-ecompapi/NIxo_Updates-/main/updates/Alpha/NixoUpdaterSetup.exe",
-    "sha256": "da518084ec35f2a6db0e082ac497251f929650a5d3f50794be069a952bfdd2b0",
+    "channel": "alpha",
+    "exe_url": "https://raw.githubusercontent.com/Pranjal-ecompapi/NIxo_Updates-/main/updates/alpha/NixoUpdaterSetup.exe",
+    "sha256": "6ec66e099fcd4eacb2522512247e7ffff5d4d5d787d98a1258d3fa0b6bd6c9a5",
     "notes": "Minor improvements and stability fixes."
 }
